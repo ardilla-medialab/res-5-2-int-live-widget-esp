@@ -1,0 +1,826 @@
+"country_es","country_en","country_code","year","sector_es","sector_en","usd","gdp_por"
+"Argentina","Argentina","ARG",2008,"Agua","Water",479.72,0.13
+"Argentina","Argentina","ARG",2009,"Agua","Water",908.001,0.26995
+"Argentina","Argentina","ARG",2010,"Agua","Water",1204.179,0.28235
+"Argentina","Argentina","ARG",2011,"Agua","Water",1103.492,0.20814
+"Argentina","Argentina","ARG",2012,"Agua","Water",1318.945,0.22684
+"Argentina","Argentina","ARG",2013,"Agua","Water",1452.695,0.23686
+"Argentina","Argentina","ARG",2014,"Agua","Water",1433.297,0.25276
+"Argentina","Argentina","ARG",2015,"Agua","Water",1509.733,0.23856
+"Belice","Belice","BLZ",2008,"Agua","Water",2.435,0.17791
+"Belice","Belice","BLZ",2009,"Agua","Water",3.315,0.24798
+"Belice","Belice","BLZ",2010,"Agua","Water",3.626,0.25956
+"Belice","Belice","BLZ",2011,"Agua","Water",5.889,0.39602
+"Belice","Belice","BLZ",2012,"Agua","Water",4.456,0.28311
+"Belice","Belice","BLZ",2013,"Agua","Water",5.856,0.36019
+"Belice","Belice","BLZ",2014,"Agua","Water",9.411,0.57884
+"Belice","Belice","BLZ",2015,"Agua","Water",11.506,0.66981
+"Bolivia","Bolivia","BOL",2008,"Agua","Water",56.6,0.31
+"Bolivia","Bolivia","BOL",2009,"Agua","Water",92.9,0.49229
+"Bolivia","Bolivia","BOL",2010,"Agua","Water",103.5,0.52672
+"Bolivia","Bolivia","BOL",2011,"Agua","Water",170.3,0.82381
+"Bolivia","Bolivia","BOL",2012,"Agua","Water",213.7,0.98338
+"Bolivia","Bolivia","BOL",2013,"Agua","Water",276.3,1.19053
+"Bolivia","Bolivia","BOL",2014,"Agua","Water",348,1.42184
+"Bolivia","Bolivia","BOL",2015,"Agua","Water",412.112,1.60593
+"Bolivia","Bolivia","BOL",2016,"Agua","Water",348.5,1.3
+"Brasil","Brazil","BRA",2008,"Agua","Water",2010.389,0.11855
+"Brasil","Brazil","BRA",2009,"Agua","Water",1560.173,0.09359
+"Brasil","Brazil","BRA",2010,"Agua","Water",1875.134,0.08489
+"Brasil","Brazil","BRA",2011,"Agua","Water",1565.177,0.05983
+"Brasil","Brazil","BRA",2012,"Agua","Water",6356.299,0.25781
+"Brasil","Brazil","BRA",2013,"Agua","Water",4926.17,0.19921
+"Brasil","Brazil","BRA",2014,"Agua","Water",3124.67,0.12726
+"Brasil","Brazil","BRA",2015,"Agua","Water",2415.738,0.13404
+"Brasil","Brazil","BRA",2016,"Agua","Water",1241.863,0.06925
+"Chile","Chile","CHL",2008,"Agua","Water",390.562,0.21743
+"Chile","Chile","CHL",2009,"Agua","Water",404.802,0.23541
+"Chile","Chile","CHL",2010,"Agua","Water",502.593,0.23104
+"Chile","Chile","CHL",2011,"Agua","Water",486.019,0.19376
+"Chile","Chile","CHL",2012,"Agua","Water",617.22,0.23271
+"Chile","Chile","CHL",2013,"Agua","Water",606.825,0.21901
+"Chile","Chile","CHL",2014,"Agua","Water",369.084,0.14265
+"Chile","Chile","CHL",2015,"Agua","Water",,
+"Colombia","Colombia","COL",2008,"Agua","Water",1056.258,0.4326
+"Colombia","Colombia","COL",2009,"Agua","Water",1026.643,0.43867
+"Colombia","Colombia","COL",2010,"Agua","Water",1226.442,0.42715
+"Colombia","Colombia","COL",2011,"Agua","Water",1593.025,0.47495
+"Colombia","Colombia","COL",2012,"Agua","Water",1627.758,0.43987
+"Colombia","Colombia","COL",2013,"Agua","Water",1584.186,0.41866
+"Colombia","Colombia","COL",2014,"Agua","Water",1071.613,0.28298
+"Colombia","Colombia","COL",2015,"Agua","Water",926.081,0.31724
+"Costa Rica","Costa Rica","CRI",2008,"Agua","Water",22.092,0.07461
+"Costa Rica","Costa Rica","CRI",2009,"Agua","Water",19.437,0.06672
+"Costa Rica","Costa Rica","CRI",2010,"Agua","Water",33.437,0.09299
+"Costa Rica","Costa Rica","CRI",2011,"Agua","Water",36.924,0.0905
+"Costa Rica","Costa Rica","CRI",2012,"Agua","Water",39.026,0.08694
+"Costa Rica","Costa Rica","CRI",2013,"Agua","Water",68.94,0.14163
+"Costa Rica","Costa Rica","CRI",2014,"Agua","Water",77.378,0.15616
+"Costa Rica","Costa Rica","CRI",2015,"Agua","Water",99.188,0.18869
+"Ecuador","Ecuador","ECU",2008,"Agua","Water",300.34,0.48628
+"Ecuador","Ecuador","ECU",2009,"Agua","Water",365.35,0.58438
+"Ecuador","Ecuador","ECU",2010,"Agua","Water",434.96,0.62534
+"Ecuador","Ecuador","ECU",2011,"Agua","Water",367.91,0.46408
+"Ecuador","Ecuador","ECU",2012,"Agua","Water",478.64,0.54438
+"Ecuador","Ecuador","ECU",2013,"Agua","Water",471.44,0.49558
+"Ecuador","Ecuador","ECU",2014,"Agua","Water",607.43,0.59382
+"Ecuador","Ecuador","ECU",2015,"Agua","Water",928.95,0.92731
+"El Salvador","El Salvador","SLV",2008,"Agua","Water",84.786,0.39562
+"El Salvador","El Salvador","SLV",2009,"Agua","Water",60.968,0.29509
+"El Salvador","El Salvador","SLV",2010,"Agua","Water",69.41,0.32407
+"El Salvador","El Salvador","SLV",2011,"Agua","Water",100.091,0.43256
+"El Salvador","El Salvador","SLV",2012,"Agua","Water",85.246,0.35797
+"El Salvador","El Salvador","SLV",2013,"Agua","Water",69.207,0.28421
+"El Salvador","El Salvador","SLV",2014,"Agua","Water",41.645,0.16622
+"El Salvador","El Salvador","SLV",2015,"Agua","Water",44.273,0.17127
+"Guatemala","Guatemala","GTM",2008,"Agua","Water",81.994,0.21561
+"Guatemala","Guatemala","GTM",2009,"Agua","Water",81.519,0.22103
+"Guatemala","Guatemala","GTM",2010,"Agua","Water",86.429,0.20784
+"Guatemala","Guatemala","GTM",2011,"Agua","Water",58.565,0.12328
+"Guatemala","Guatemala","GTM",2012,"Agua","Water",57.207,0.11449
+"Guatemala","Guatemala","GTM",2013,"Agua","Water",32.956,0.06107
+"Guatemala","Guatemala","GTM",2014,"Agua","Water",51.918,0.08852
+"Guatemala","Guatemala","GTM",2015,"Agua","Water",17.714,0.02782
+"Guyana","Guyana","GUY",2008,"Agua","Water",1.473,0.08584
+"Guyana","Guyana","GUY",2009,"Agua","Water",9.604,0.54513
+"Guyana","Guyana","GUY",2010,"Agua","Water",19.446,0.98772
+"Guyana","Guyana","GUY",2011,"Agua","Water",8.47,0.37556
+"Guyana","Guyana","GUY",2012,"Agua","Water",10.951,0.43768
+"Guyana","Guyana","GUY",2013,"Agua","Water",12.299,0.47002
+"Guyana","Guyana","GUY",2014,"Agua","Water",14.843,0.55322
+"Guyana","Guyana","GUY",2015,"Agua","Water",6.183,0.23212
+"Honduras","Honduras","HON",2008,"Agua","Water",10.83,0.07853
+"Honduras","Honduras","HON",2009,"Agua","Water",26.397,0.18222
+"Honduras","Honduras","HON",2010,"Agua","Water",24.111,0.15328
+"Honduras","Honduras","HON",2011,"Agua","Water",24.329,0.13833
+"Honduras","Honduras","HON",2012,"Agua","Water",10.223,0.05556
+"Honduras","Honduras","HON",2013,"Agua","Water",6.738,0.03667
+"Honduras","Honduras","HON",2014,"Agua","Water",11.119,0.05737
+"Honduras","Honduras","HON",2015,"Agua","Water",7.868,0.03904
+"México","Mexico","MEX",2008,"Agua","Water",2853.58,0.25708
+"México","Mexico","MEX",2009,"Agua","Water",3223.243,0.35812
+"México","Mexico","MEX",2010,"Agua","Water",6674.682,0.631
+"México","Mexico","MEX",2011,"Agua","Water",4048.627,0.34296
+"México","Mexico","MEX",2012,"Agua","Water",3361.627,0.27988
+"México","Mexico","MEX",2013,"Agua","Water",3377.954,0.26505
+"México","Mexico","MEX",2014,"Agua","Water",4127.018,0.31394
+"México","Mexico","MEX",2015,"Agua","Water",3567.421,0.30476
+"México","Mexico","MEX",2016,"Agua","Water",1597.901,0.14826
+"Nicaragua","Nicaragua",,2008,"Agua","Water",47.14,0.55515
+"Nicaragua","Nicaragua",,2009,"Agua","Water",84.495,1.0082
+"Nicaragua","Nicaragua",,2010,"Agua","Water",53.657,0.61383
+"Nicaragua","Nicaragua",,2011,"Agua","Water",58.472,0.59936
+"Nicaragua","Nicaragua",,2012,"Agua","Water",50.862,0.48724
+"Nicaragua","Nicaragua",,2013,"Agua","Water",55.232,0.50789
+"Nicaragua","Nicaragua",,2014,"Agua","Water",81.814,0.69392
+"Nicaragua","Nicaragua",,2015,"Agua","Water",73.523,0.57926
+"Panamá","Panama","PAN",2008,"Agua","Water",1.047,0.00421
+"Panamá","Panama","PAN",2009,"Agua","Water",0.047,0.00018
+"Panamá","Panama","PAN",2010,"Agua","Water",20.151,0.06993
+"Panamá","Panama","PAN",2011,"Agua","Water",39.545,0.1203
+"Panamá","Panama","PAN",2012,"Agua","Water",29.384,0.07671
+"Panamá","Panama","PAN",2013,"Agua","Water",139.454,0.32411
+"Panamá","Panama","PAN",2014,"Agua","Water",283.815,0.6023
+"Panamá","Panama","PAN",2015,"Agua","Water",112.74,0.22496
+"Paraguay","Paraguay","PAR",2008,"Agua","Water",23.72,0.13
+"Paraguay","Paraguay","PAR",2009,"Agua","Water",23.257,0.13
+"Paraguay","Paraguay","PAR",2010,"Agua","Water",11.969,0.06
+"Paraguay","Paraguay","PAR",2011,"Agua","Water",21.597,0.1
+"Paraguay","Paraguay","PAR",2012,"Agua","Water",43.439,0.21
+"Paraguay","Paraguay","PAR",2013,"Agua","Water",44.423,0.19
+"Paraguay","Paraguay","PAR",2014,"Agua","Water",32.571,0.13
+"Paraguay","Paraguay","PAR",2015,"Agua","Water",31.893,0.13
+"Paraguay","Paraguay","PAR",2016,"Agua","Water",39.769,0.15
+"Perú","Peru","PER",2008,"Agua","Water",640.062,0.53068
+"Perú","Peru","PER",2009,"Agua","Water",1058.596,0.87595
+"Perú","Peru","PER",2010,"Agua","Water",1489.419,1.00959
+"Perú","Peru","PER",2011,"Agua","Water",1622.34,0.94453
+"Perú","Peru","PER",2012,"Agua","Water",1968.964,1.02204
+"Perú","Peru","PER",2013,"Agua","Water",1851.482,0.92014
+"Perú","Peru","PER",2014,"Agua","Water",2644.065,1.31515
+"Perú","Peru","PER",2015,"Agua","Water",1489.168,0.78705
+"República Dominicana","Dominican Republic","DOM",2008,"Agua","Water",,
+"República Dominicana","Dominican Republic","DOM",2009,"Agua","Water",61.275,0.12716
+"República Dominicana","Dominican Republic","DOM",2010,"Agua","Water",68.127,0.12674
+"República Dominicana","Dominican Republic","DOM",2011,"Agua","Water",44.075,0.07632
+"República Dominicana","Dominican Republic","DOM",2012,"Agua","Water",265.085,0.43733
+"República Dominicana","Dominican Republic","DOM",2013,"Agua","Water",194.559,0.31398
+"República Dominicana","Dominican Republic","DOM",2014,"Agua","Water",149.822,0.22968
+"República Dominicana","Dominican Republic","DOM",2015,"Agua","Water",76.757,0.11271
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2008,"Agua","Water",29.348,0.10531
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2009,"Agua","Water",80.639,0.42021
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2010,"Agua","Water",63.135,0.28513
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2011,"Agua","Water",57.192,0.2249
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2012,"Agua","Water",76.563,0.298
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2013,"Agua","Water",62.573,0.23653
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2014,"Agua","Water",76.053,0.27896
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2015,"Agua","Water",121.164,0.46622
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2016,"Agua","Water",127.012,0.56869
+"Uruguay","Uruguay","URU",2008,"Agua","Water",71.157,0.23433
+"Uruguay","Uruguay","URU",2009,"Agua","Water",85.782,0.27094
+"Uruguay","Uruguay","URU",2010,"Agua","Water",95.248,0.23644
+"Uruguay","Uruguay","URU",2011,"Agua","Water",129.24,0.26946
+"Uruguay","Uruguay","URU",2012,"Agua","Water",116.444,0.22661
+"Uruguay","Uruguay","URU",2013,"Agua","Water",,
+"Uruguay","Uruguay","URU",2014,"Agua","Water",,
+"Uruguay","Uruguay","URU",2015,"Agua","Water",,
+"Argentina","Argentina","ARG",2008,"Energía","Energy",2213.52,0.60537
+"Argentina","Argentina","ARG",2009,"Energía","Energy",1923.764,0.57194
+"Argentina","Argentina","ARG",2010,"Energía","Energy",2487.017,0.58314
+"Argentina","Argentina","ARG",2011,"Energía","Energy",2389.975,0.4508
+"Argentina","Argentina","ARG",2012,"Energía","Energy",2929.727,0.50388
+"Argentina","Argentina","ARG",2013,"Energía","Energy",3379.492,0.55102
+"Argentina","Argentina","ARG",2014,"Energía","Energy",2877.525,0.50746
+"Argentina","Argentina","ARG",2015,"Energía","Energy",4229.126,0.66828
+"Belice","Belice","BLZ",2008,"Energía","Energy",20.826,1.52167
+"Belice","Belice","BLZ",2009,"Energía","Energy",21.822,1.63219
+"Belice","Belice","BLZ",2010,"Energía","Energy",22.186,1.58799
+"Belice","Belice","BLZ",2011,"Energía","Energy",15.736,1.0582
+"Belice","Belice","BLZ",2012,"Energía","Energy",8.891,0.56489
+"Belice","Belice","BLZ",2013,"Energía","Energy",7.412,0.45592
+"Belice","Belice","BLZ",2014,"Energía","Energy",11.507,0.70776
+"Belice","Belice","BLZ",2015,"Energía","Energy",13.889,0.80849
+"Bolivia","Bolivia","BOL",2008,"Energía","Energy",86.9,0.47595
+"Bolivia","Bolivia","BOL",2009,"Energía","Energy",72,0.38154
+"Bolivia","Bolivia","BOL",2010,"Energía","Energy",70.8,0.36031
+"Bolivia","Bolivia","BOL",2011,"Energía","Energy",108.9,0.52679
+"Bolivia","Bolivia","BOL",2012,"Energía","Energy",122.6,0.56417
+"Bolivia","Bolivia","BOL",2013,"Energía","Energy",172.2,0.74198
+"Bolivia","Bolivia","BOL",2014,"Energía","Energy",212.9,0.86985
+"Bolivia","Bolivia","BOL",2015,"Energía","Energy",310.18,1.20872
+"Bolivia","Bolivia","BOL",2016,"Energía","Energy",868.97,3.25
+"Brasil","Brazil","BRA",2008,"Energía","Energy",16147.694,0.95219
+"Brasil","Brazil","BRA",2009,"Energía","Energy",34584.673,2.07467
+"Brasil","Brazil","BRA",2010,"Energía","Energy",24052.181,1.08891
+"Brasil","Brazil","BRA",2011,"Energía","Energy",28493.906,1.08915
+"Brasil","Brazil","BRA",2012,"Energía","Energy",41127.49,1.6681
+"Brasil","Brazil","BRA",2013,"Energía","Energy",21907.903,0.88595
+"Brasil","Brazil","BRA",2014,"Energía","Energy",42516.875,1.73158
+"Brasil","Brazil","BRA",2015,"Energía","Energy",12180.833,0.67588
+"Brasil","Brazil","BRA",2016,"Energía","Energy",10584.085,0.59017
+"Chile","Chile","CHL",2008,"Energía","Energy",413.738,0.23033
+"Chile","Chile","CHL",2009,"Energía","Energy",963.641,0.5604
+"Chile","Chile","CHL",2010,"Energía","Energy",473.133,0.21749
+"Chile","Chile","CHL",2011,"Energía","Energy",470.486,0.18757
+"Chile","Chile","CHL",2012,"Energía","Energy",2558.88,0.96477
+"Chile","Chile","CHL",2013,"Energía","Energy",6398.885,2.30941
+"Chile","Chile","CHL",2014,"Energía","Energy",3912.511,1.51218
+"Chile","Chile","CHL",2015,"Energía","Energy",,
+"Colombia","Colombia","COL",2008,"Energía","Energy",730.769,0.2993
+"Colombia","Colombia","COL",2009,"Energía","Energy",2872.85,1.22753
+"Colombia","Colombia","COL",2010,"Energía","Energy",781.886,0.27232
+"Colombia","Colombia","COL",2011,"Energía","Energy",1168.094,0.34826
+"Colombia","Colombia","COL",2012,"Energía","Energy",531.169,0.14354
+"Colombia","Colombia","COL",2013,"Energía","Energy",1952.24,0.51593
+"Colombia","Colombia","COL",2014,"Energía","Energy",1305.79,0.34482
+"Colombia","Colombia","COL",2015,"Energía","Energy",467.301,0.16008
+"Costa Rica","Costa Rica","CRI",2008,"Energía","Energy",378.649,1.27882
+"Costa Rica","Costa Rica","CRI",2009,"Energía","Energy",665.052,2.28304
+"Costa Rica","Costa Rica","CRI",2010,"Energía","Energy",670.167,1.86386
+"Costa Rica","Costa Rica","CRI",2011,"Energía","Energy",740.615,1.81521
+"Costa Rica","Costa Rica","CRI",2012,"Energía","Energy",1064.002,2.37035
+"Costa Rica","Costa Rica","CRI",2013,"Energía","Energy",1096.482,2.25264
+"Costa Rica","Costa Rica","CRI",2014,"Energía","Energy",755.917,1.5256
+"Costa Rica","Costa Rica","CRI",2015,"Energía","Energy",597.425,1.13653
+"Ecuador","Ecuador","ECU",2008,"Energía","Energy",10.32,0.01671
+"Ecuador","Ecuador","ECU",2009,"Energía","Energy",126.85,0.2029
+"Ecuador","Ecuador","ECU",2010,"Energía","Energy",890.21,1.27986
+"Ecuador","Ecuador","ECU",2011,"Energía","Energy",1297.85,1.63711
+"Ecuador","Ecuador","ECU",2012,"Energía","Energy",1646.02,1.87208
+"Ecuador","Ecuador","ECU",2013,"Energía","Energy",2609.51,2.74311
+"Ecuador","Ecuador","ECU",2014,"Energía","Energy",2274.83,2.22385
+"Ecuador","Ecuador","ECU",2015,"Energía","Energy",2994.34,2.98906
+"El Salvador","El Salvador","SLV",2008,"Energía","Energy",59.871,0.27937
+"El Salvador","El Salvador","SLV",2009,"Energía","Energy",69.34,0.33561
+"El Salvador","El Salvador","SLV",2010,"Energía","Energy",49.172,0.22958
+"El Salvador","El Salvador","SLV",2011,"Energía","Energy",20.178,0.0872
+"El Salvador","El Salvador","SLV",2012,"Energía","Energy",65.405,0.27465
+"El Salvador","El Salvador","SLV",2013,"Energía","Energy",76.795,0.31537
+"El Salvador","El Salvador","SLV",2014,"Energía","Energy",49.644,0.19815
+"El Salvador","El Salvador","SLV",2015,"Energía","Energy",226.909,0.87778
+"Guatemala","Guatemala","GTM",2008,"Energía","Energy",3.126,0.00822
+"Guatemala","Guatemala","GTM",2009,"Energía","Energy",8.399,0.02277
+"Guatemala","Guatemala","GTM",2010,"Energía","Energy",778.897,1.87304
+"Guatemala","Guatemala","GTM",2011,"Energía","Energy",36.749,0.07736
+"Guatemala","Guatemala","GTM",2012,"Energía","Energy",467.987,0.93663
+"Guatemala","Guatemala","GTM",2013,"Energía","Energy",540.19,1.00095
+"Guatemala","Guatemala","GTM",2014,"Energía","Energy",323.71,0.55191
+"Guatemala","Guatemala","GTM",2015,"Energía","Energy",48.516,0.0762
+"Guyana","Guyana","GUY",2008,"Energía","Energy",45.997,2.68013
+"Guyana","Guyana","GUY",2009,"Energía","Energy",44.891,2.54812
+"Guyana","Guyana","GUY",2010,"Energía","Energy",30.847,1.56682
+"Guyana","Guyana","GUY",2011,"Energía","Energy",81.74,3.62448
+"Guyana","Guyana","GUY",2012,"Energía","Energy",78.386,3.13276
+"Guyana","Guyana","GUY",2013,"Energía","Energy",53.235,2.03448
+"Guyana","Guyana","GUY",2014,"Energía","Energy",40.9,1.52444
+"Guyana","Guyana","GUY",2015,"Energía","Energy",10.394,0.39023
+"Honduras","Honduras","HON",2008,"Energía","Energy",73.659,0.53415
+"Honduras","Honduras","HON",2009,"Energía","Energy",36.955,0.2551
+"Honduras","Honduras","HON",2010,"Energía","Energy",284.122,1.80628
+"Honduras","Honduras","HON",2011,"Energía","Energy",250.628,1.42499
+"Honduras","Honduras","HON",2012,"Energía","Energy",94.342,0.51271
+"Honduras","Honduras","HON",2013,"Energía","Energy",388.999,2.11733
+"Honduras","Honduras","HON",2014,"Energía","Energy",656.218,3.38589
+"Honduras","Honduras","HON",2015,"Energía","Energy",518.428,2.57259
+"México","Mexico","MEX",2008,"Energía","Energy",4396.865,0.39612
+"México","Mexico","MEX",2009,"Energía","Energy",3692.661,0.41028
+"México","Mexico","MEX",2010,"Energía","Energy",4402.312,0.41618
+"México","Mexico","MEX",2011,"Energía","Energy",5343.851,0.45268
+"México","Mexico","MEX",2012,"Energía","Energy",5782.278,0.48142
+"México","Mexico","MEX",2013,"Energía","Energy",5904.805,0.46332
+"México","Mexico","MEX",2014,"Energía","Energy",11450.467,0.87104
+"México","Mexico","MEX",2015,"Energía","Energy",8822.28,0.75368
+"México","Mexico","MEX",2016,"Energía","Energy",16154.858,1.4989
+"Nicaragua","Nicaragua",,2008,"Energía","Energy",19.372,0.22813
+"Nicaragua","Nicaragua",,2009,"Energía","Energy",31.082,0.37087
+"Nicaragua","Nicaragua",,2010,"Energía","Energy",465.311,5.32314
+"Nicaragua","Nicaragua","NIC",2011,"Energía","Energy",198.157,2.03121
+"Nicaragua","Nicaragua","NIC",2012,"Energía","Energy",196.316,1.88062
+"Nicaragua","Nicaragua","NIC",2013,"Energía","Energy",96.831,0.89042
+"Nicaragua","Nicaragua","NIC",2014,"Energía","Energy",170.398,1.44525
+"Nicaragua","Nicaragua","NIC",2015,"Energía","Energy",101.407,0.79895
+"Panamá","Panama","PAN",2008,"Energía","Energy",36.347,0.14607
+"Panamá","Panama","PAN",2009,"Energía","Energy",36.405,0.14042
+"Panamá","Panama","PAN",2010,"Energía","Energy",312.043,1.08295
+"Panamá","Panama","PAN",2011,"Energía","Energy",699.162,2.12695
+"Panamá","Panama","PAN",2012,"Energía","Energy",17.869,0.04665
+"Panamá","Panama","PAN",2013,"Energía","Energy",216.05,0.50212
+"Panamá","Panama","PAN",2014,"Energía","Energy",540.701,1.14746
+"Panamá","Panama","PAN",2015,"Energía","Energy",25.675,0.05123
+"Paraguay","Paraguay","PAR",2008,"Energía","Energy",205.886,1.12
+"Paraguay","Paraguay","PAR",2009,"Energía","Energy",225.453,1.27
+"Paraguay","Paraguay","PAR",2010,"Energía","Energy",332.716,1.66
+"Paraguay","Paraguay","PAR",2011,"Energía","Energy",316.393,1.51
+"Paraguay","Paraguay","PAR",2012,"Energía","Energy",463.056,2.24
+"Paraguay","Paraguay","PAR",2013,"Energía","Energy",709.919,3.01
+"Paraguay","Paraguay","PAR",2014,"Energía","Energy",780.266,3.16
+"Paraguay","Paraguay","PAR",2015,"Energía","Energy",555.112,2.19
+"Paraguay","Paraguay","PAR",2016,"Energía","Energy",433.174,1.64
+"Perú","Peru","PER",2008,"Energía","Energy",518.036,0.42951
+"Perú","Peru","PER",2009,"Energía","Energy",665.41,0.55061
+"Perú","Peru","PER",2010,"Energía","Energy",1495.274,1.01356
+"Perú","Peru","PER",2011,"Energía","Energy",913.218,0.53168
+"Perú","Peru","PER",2012,"Energía","Energy",2344.786,1.21712
+"Perú","Peru","PER",2013,"Energía","Energy",2977.374,1.47968
+"Perú","Peru","PER",2014,"Energía","Energy",1825.599,0.90805
+"Perú","Peru","PER",2015,"Energía","Energy",1258.112,0.66493
+"República Dominicana","Dominican Republic","DOM",2008,"Energía","Energy",,
+"República Dominicana","Dominican Republic","DOM",2009,"Energía","Energy",199.673,0.41437
+"República Dominicana","Dominican Republic","DOM",2010,"Energía","Energy",101.07,0.18803
+"República Dominicana","Dominican Republic","DOM",2011,"Energía","Energy",370.389,0.6414
+"República Dominicana","Dominican Republic","DOM",2012,"Energía","Energy",393.755,0.64961
+"República Dominicana","Dominican Republic","DOM",2013,"Energía","Energy",172.326,0.2781
+"República Dominicana","Dominican Republic","DOM",2014,"Energía","Energy",403.47,0.61852
+"República Dominicana","Dominican Republic","DOM",2015,"Energía","Energy",645.184,0.94737
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2008,"Energía","Energy",18.314,0.065
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2009,"Energía","Energy",19.414,0.101
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2010,"Energía","Energy",5.235,0.0236
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2011,"Energía","Energy",15.975,0.0628
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2012,"Energía","Energy",2.55,0.0099
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2013,"Energía","Energy",10.38,0.0392
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2014,"Energía","Energy",15.388,0.056
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2015,"Energía","Energy",25.127,0.0968
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2016,"Energía","Energy",11.411,0.05109
+"Uruguay","Uruguay","URU",2008,"Energía","Energy",339.66,1.11854
+"Uruguay","Uruguay","URU",2009,"Energía","Energy",371.303,1.17275
+"Uruguay","Uruguay","URU",2010,"Energía","Energy",427.663,1.06161
+"Uruguay","Uruguay","URU",2011,"Energía","Energy",446.099,0.9301
+"Uruguay","Uruguay","URU",2012,"Energía","Energy",788.602,1.53473
+"Uruguay","Uruguay","URU",2013,"Energía","Energy",866.2,1.50579
+"Uruguay","Uruguay","URU",2014,"Energía","Energy",,
+"Uruguay","Uruguay","URU",2015,"Energía","Energy",,
+"Argentina","Argentina","ARG",2008,"Telecomunicaciones","Telecommunications",1599.135,0.43735
+"Argentina","Argentina","ARG",2009,"Telecomunicaciones","Telecommunications",1485.713,0.4417
+"Argentina","Argentina","ARG",2010,"Telecomunicaciones","Telecommunications",2549.065,0.59769
+"Argentina","Argentina","ARG",2011,"Telecomunicaciones","Telecommunications",3010.806,0.56791
+"Argentina","Argentina","ARG",2012,"Telecomunicaciones","Telecommunications",2694.922,0.4635
+"Argentina","Argentina","ARG",2013,"Telecomunicaciones","Telecommunications",3053.551,0.49788
+"Argentina","Argentina","ARG",2014,"Telecomunicaciones","Telecommunications",2841.102,0.50103
+"Argentina","Argentina","ARG",2015,"Telecomunicaciones","Telecommunications",493.218,0.07794
+"Belice","Belice","BLZ",2008,"Telecomunicaciones","Telecommunications",23.044,1.6837
+"Belice","Belice","BLZ",2009,"Telecomunicaciones","Telecommunications",30.099,2.25127
+"Belice","Belice","BLZ",2010,"Telecomunicaciones","Telecommunications",11.366,0.81353
+"Belice","Belice","BLZ",2011,"Telecomunicaciones","Telecommunications",13.98,0.94014
+"Belice","Belice","BLZ",2012,"Telecomunicaciones","Telecommunications",16.155,1.02645
+"Belice","Belice","BLZ",2013,"Telecomunicaciones","Telecommunications",18.87,1.16061
+"Belice","Belice","BLZ",2014,"Telecomunicaciones","Telecommunications",17.788,1.09407
+"Belice","Belice","BLZ",2015,"Telecomunicaciones","Telecommunications",19.481,1.13403
+"Bolivia","Bolivia","BOL",2008,"Telecomunicaciones","Telecommunications",73.3,0.40147
+"Bolivia","Bolivia","BOL",2009,"Telecomunicaciones","Telecommunications",38.8,0.20561
+"Bolivia","Bolivia","BOL",2010,"Telecomunicaciones","Telecommunications",8.5,0.04326
+"Bolivia","Bolivia","BOL",2011,"Telecomunicaciones","Telecommunications",86.8,0.41989
+"Bolivia","Bolivia","BOL",2012,"Telecomunicaciones","Telecommunications",80.5,0.37044
+"Bolivia","Bolivia","BOL",2013,"Telecomunicaciones","Telecommunications",273.6,1.1789
+"Bolivia","Bolivia","BOL",2014,"Telecomunicaciones","Telecommunications",103.52,0.42296
+"Bolivia","Bolivia","BOL",2015,"Telecomunicaciones","Telecommunications",19.57,0.07626
+"Bolivia","Bolivia","BOL",2016,"Telecomunicaciones","Telecommunications",82.15,0.31
+"Brasil","Brazil","BRA",2008,"Telecomunicaciones","Telecommunications",14.455,0.00085
+"Brasil","Brazil","BRA",2009,"Telecomunicaciones","Telecommunications",20.383,0.00122
+"Brasil","Brazil","BRA",2010,"Telecomunicaciones","Telecommunications",43.338,0.00196
+"Brasil","Brazil","BRA",2011,"Telecomunicaciones","Telecommunications",764.474,0.02922
+"Brasil","Brazil","BRA",2012,"Telecomunicaciones","Telecommunications",119.693,0.00485
+"Brasil","Brazil","BRA",2013,"Telecomunicaciones","Telecommunications",253.24,0.01024
+"Brasil","Brazil","BRA",2014,"Telecomunicaciones","Telecommunications",484.036,0.01971
+"Brasil","Brazil","BRA",2015,"Telecomunicaciones","Telecommunications",303.648,0.01685
+"Brasil","Brazil","BRA",2016,"Telecomunicaciones","Telecommunications",148.984,0.00831
+"Chile","Chile","CHL",2008,"Telecomunicaciones","Telecommunications",1346.785,0.74977
+"Chile","Chile","CHL",2009,"Telecomunicaciones","Telecommunications",1357.141,0.78923
+"Chile","Chile","CHL",2010,"Telecomunicaciones","Telecommunications",1346.477,0.61896
+"Chile","Chile","CHL",2011,"Telecomunicaciones","Telecommunications",1497.026,0.59682
+"Chile","Chile","CHL",2012,"Telecomunicaciones","Telecommunications",1642.758,0.61937
+"Chile","Chile","CHL",2013,"Telecomunicaciones","Telecommunications",1252.12,0.4519
+"Chile","Chile","CHL",2014,"Telecomunicaciones","Telecommunications",783.9,0.30298
+"Chile","Chile","CHL",2015,"Telecomunicaciones","Telecommunications",,
+"Colombia","Colombia","COL",2008,"Telecomunicaciones","Telecommunications",1883.418,0.77138
+"Colombia","Colombia","COL",2009,"Telecomunicaciones","Telecommunications",1155.726,0.49383
+"Colombia","Colombia","COL",2010,"Telecomunicaciones","Telecommunications",1984.567,0.6912
+"Colombia","Colombia","COL",2011,"Telecomunicaciones","Telecommunications",2478.442,0.73893
+"Colombia","Colombia","COL",2012,"Telecomunicaciones","Telecommunications",1954.642,0.52821
+"Colombia","Colombia","COL",2013,"Telecomunicaciones","Telecommunications",2498.231,0.66022
+"Colombia","Colombia","COL",2014,"Telecomunicaciones","Telecommunications",2533.548,0.66903
+"Colombia","Colombia","COL",2015,"Telecomunicaciones","Telecommunications",311.062,0.10656
+"Costa Rica","Costa Rica","CRI",2008,"Telecomunicaciones","Telecommunications",291.578,0.98476
+"Costa Rica","Costa Rica","CRI",2009,"Telecomunicaciones","Telecommunications",289.211,0.99282
+"Costa Rica","Costa Rica","CRI",2010,"Telecomunicaciones","Telecommunications",317.495,0.88301
+"Costa Rica","Costa Rica","CRI",2011,"Telecomunicaciones","Telecommunications",519.327,1.27284
+"Costa Rica","Costa Rica","CRI",2012,"Telecomunicaciones","Telecommunications",858.058,1.91155
+"Costa Rica","Costa Rica","CRI",2013,"Telecomunicaciones","Telecommunications",311.135,0.6392
+"Costa Rica","Costa Rica","CRI",2014,"Telecomunicaciones","Telecommunications",299.78,0.60502
+"Costa Rica","Costa Rica","CRI",2015,"Telecomunicaciones","Telecommunications",227.738,0.43325
+"Ecuador","Ecuador","ECU",2008,"Telecomunicaciones","Telecommunications",19.13,0.03097
+"Ecuador","Ecuador","ECU",2009,"Telecomunicaciones","Telecommunications",277,0.44306
+"Ecuador","Ecuador","ECU",2010,"Telecomunicaciones","Telecommunications",259.1,0.37251
+"Ecuador","Ecuador","ECU",2011,"Telecomunicaciones","Telecommunications",340.02,0.4289
+"Ecuador","Ecuador","ECU",2012,"Telecomunicaciones","Telecommunications",305.92,0.34793
+"Ecuador","Ecuador","ECU",2013,"Telecomunicaciones","Telecommunications",478.97,0.50349
+"Ecuador","Ecuador","ECU",2014,"Telecomunicaciones","Telecommunications",518.76,0.50714
+"Ecuador","Ecuador","ECU",2015,"Telecomunicaciones","Telecommunications",11.16,0.01114
+"El Salvador","El Salvador","SLV",2008,"Telecomunicaciones","Telecommunications",231.8,1.08161
+"El Salvador","El Salvador","SLV",2009,"Telecomunicaciones","Telecommunications",87.1,0.42157
+"El Salvador","El Salvador","SLV",2010,"Telecomunicaciones","Telecommunications",135.7,0.63357
+"El Salvador","El Salvador","SLV",2011,"Telecomunicaciones","Telecommunications",125.2,0.54108
+"El Salvador","El Salvador","SLV",2012,"Telecomunicaciones","Telecommunications",174,0.73067
+"El Salvador","El Salvador","SLV",2013,"Telecomunicaciones","Telecommunications",270.7,1.11166
+"El Salvador","El Salvador","SLV",2014,"Telecomunicaciones","Telecommunications",202.2,0.80705
+"El Salvador","El Salvador","SLV",2015,"Telecomunicaciones","Telecommunications",,
+"Guatemala","Guatemala","GTM",2008,"Telecomunicaciones","Telecommunications",526.221,1.38371
+"Guatemala","Guatemala","GTM",2009,"Telecomunicaciones","Telecommunications",206.472,0.55981
+"Guatemala","Guatemala","GTM",2010,"Telecomunicaciones","Telecommunications",214.205,0.51511
+"Guatemala","Guatemala","GTM",2011,"Telecomunicaciones","Telecommunications",99.787,0.21006
+"Guatemala","Guatemala","GTM",2012,"Telecomunicaciones","Telecommunications",187.237,0.37474
+"Guatemala","Guatemala","GTM",2013,"Telecomunicaciones","Telecommunications",477.444,0.88469
+"Guatemala","Guatemala","GTM",2014,"Telecomunicaciones","Telecommunications",464.228,0.79148
+"Guatemala","Guatemala","GTM",2015,"Telecomunicaciones","Telecommunications",0.009,1E-05
+"Guyana","Guyana","GUY",2008,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2009,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2010,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2011,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2012,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2013,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2014,"Telecomunicaciones","Telecommunications",,
+"Guyana","Guyana","GUY",2015,"Telecomunicaciones","Telecommunications",,
+"Honduras","Honduras","HON",2008,"Telecomunicaciones","Telecommunications",335.492,2.43291
+"Honduras","Honduras","HON",2009,"Telecomunicaciones","Telecommunications",276.6,1.90941
+"Honduras","Honduras","HON",2010,"Telecomunicaciones","Telecommunications",70.5,0.4482
+"Honduras","Honduras","HON",2011,"Telecomunicaciones","Telecommunications",207.4,1.17921
+"Honduras","Honduras","HON",2012,"Telecomunicaciones","Telecommunications",12.4,0.06739
+"Honduras","Honduras","HON",2013,"Telecomunicaciones","Telecommunications",208.2,1.13324
+"Honduras","Honduras","HON",2014,"Telecomunicaciones","Telecommunications",213.7,1.10263
+"Honduras","Honduras","HON",2015,"Telecomunicaciones","Telecommunications",,
+"México","Mexico","MEX",2008,"Telecomunicaciones","Telecommunications",19.392,0.00175
+"México","Mexico","MEX",2009,"Telecomunicaciones","Telecommunications",15.154,0.00168
+"México","Mexico","MEX",2010,"Telecomunicaciones","Telecommunications",311.155,0.02942
+"México","Mexico","MEX",2011,"Telecomunicaciones","Telecommunications",494.172,0.04186
+"México","Mexico","MEX",2012,"Telecomunicaciones","Telecommunications",503.275,0.0419
+"México","Mexico","MEX",2013,"Telecomunicaciones","Telecommunications",517.388,0.0406
+"México","Mexico","MEX",2014,"Telecomunicaciones","Telecommunications",278.273,0.02117
+"México","Mexico","MEX",2015,"Telecomunicaciones","Telecommunications",234.104,0.02
+"México","Mexico","MEX",2016,"Telecomunicaciones","Telecommunications",73.941,0.00686
+"Nicaragua","Nicaragua","NIC",2008,"Telecomunicaciones","Telecommunications",158.626,1.86809
+"Nicaragua","Nicaragua","NIC",2009,"Telecomunicaciones","Telecommunications",53.525,0.63867
+"Nicaragua","Nicaragua","NIC",2010,"Telecomunicaciones","Telecommunications",132.913,1.52052
+"Nicaragua","Nicaragua","NIC",2011,"Telecomunicaciones","Telecommunications",206.222,2.11388
+"Nicaragua","Nicaragua","NIC",2012,"Telecomunicaciones","Telecommunications",139.451,1.33589
+"Nicaragua","Nicaragua","NIC",2013,"Telecomunicaciones","Telecommunications",230.309,2.11784
+"Nicaragua","Nicaragua","NIC",2014,"Telecomunicaciones","Telecommunications",177.473,1.50526
+"Nicaragua","Nicaragua","NIC",2015,"Telecomunicaciones","Telecommunications",304.345,2.39783
+"Panamá","Panama","PAN",2008,"Telecomunicaciones","Telecommunications",878,3.52837
+"Panamá","Panama","PAN",2009,"Telecomunicaciones","Telecommunications",115.5,0.44551
+"Panamá","Panama","PAN",2010,"Telecomunicaciones","Telecommunications",38.2,0.13257
+"Panamá","Panama","PAN",2011,"Telecomunicaciones","Telecommunications",190.5,0.57953
+"Panamá","Panama","PAN",2012,"Telecomunicaciones","Telecommunications",103.1,0.26914
+"Panamá","Panama","PAN",2013,"Telecomunicaciones","Telecommunications",388.3,0.90245
+"Panamá","Panama","PAN",2014,"Telecomunicaciones","Telecommunications",299.9,0.63644
+"Panamá","Panama","PAN",2015,"Telecomunicaciones","Telecommunications",,
+"Paraguay","Paraguay","PAR",2008,"Telecomunicaciones","Telecommunications",178.8,0.97
+"Paraguay","Paraguay","PAR",2009,"Telecomunicaciones","Telecommunications",92.9,0.58
+"Paraguay","Paraguay","PAR",2010,"Telecomunicaciones","Telecommunications",60.1,0.3
+"Paraguay","Paraguay","PAR",2011,"Telecomunicaciones","Telecommunications",163.9,0.65
+"Paraguay","Paraguay","PAR",2012,"Telecomunicaciones","Telecommunications",43,0.17
+"Paraguay","Paraguay","PAR",2013,"Telecomunicaciones","Telecommunications",309.7,1.07
+"Paraguay","Paraguay","PAR",2014,"Telecomunicaciones","Telecommunications",142.5,0.58
+"Paraguay","Paraguay","PAR",2015,"Telecomunicaciones","Telecommunications",,
+"Paraguay","Paraguay","PAR",2016,"Telecomunicaciones","Telecommunications",,
+"Perú","Peru","PER",2008,"Telecomunicaciones","Telecommunications",845.126,0.7007
+"Perú","Peru","PER",2009,"Telecomunicaciones","Telecommunications",704.952,0.58332
+"Perú","Peru","PER",2010,"Telecomunicaciones","Telecommunications",662.253,0.4489
+"Perú","Peru","PER",2011,"Telecomunicaciones","Telecommunications",788.347,0.45898
+"Perú","Peru","PER",2012,"Telecomunicaciones","Telecommunications",593.67,0.30816
+"Perú","Peru","PER",2013,"Telecomunicaciones","Telecommunications",1101.276,0.54731
+"Perú","Peru","PER",2014,"Telecomunicaciones","Telecommunications",1141.699,0.56788
+"Perú","Peru","PER",2015,"Telecomunicaciones","Telecommunications",235.919,0.12469
+"República Dominicana","Dominican Republic","DOM",2008,"Telecomunicaciones","Telecommunications",211,0.43966
+"República Dominicana","Dominican Republic","DOM",2009,"Telecomunicaciones","Telecommunications",346.376,0.71881
+"República Dominicana","Dominican Republic","DOM",2010,"Telecomunicaciones","Telecommunications",268.43,0.49938
+"República Dominicana","Dominican Republic","DOM",2011,"Telecomunicaciones","Telecommunications",,
+"República Dominicana","Dominican Republic","DOM",2012,"Telecomunicaciones","Telecommunications",201.211,0.33196
+"República Dominicana","Dominican Republic","DOM",2013,"Telecomunicaciones","Telecommunications",279.458,0.45099
+"República Dominicana","Dominican Republic","DOM",2014,"Telecomunicaciones","Telecommunications",251.498,0.38555
+"República Dominicana","Dominican Republic","DOM",2015,"Telecomunicaciones","Telecommunications",0.006,1E-05
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2008,"Telecomunicaciones","Telecommunications",9.428,0.03383
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2009,"Telecomunicaciones","Telecommunications",5.854,0.03051
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2010,"Telecomunicaciones","Telecommunications",4.647,0.02099
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2011,"Telecomunicaciones","Telecommunications",,
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2012,"Telecomunicaciones","Telecommunications",27.185,0.1058
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2013,"Telecomunicaciones","Telecommunications",30.551,0.11548
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2014,"Telecomunicaciones","Telecommunications",35.725,0.13103
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2015,"Telecomunicaciones","Telecommunications",36.022,0.1386
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2016,"Telecomunicaciones","Telecommunications",35.015,0.15678
+"Uruguay","Uruguay","URU",2008,"Telecomunicaciones","Telecommunications",189.742,0.62485
+"Uruguay","Uruguay","URU",2009,"Telecomunicaciones","Telecommunications",161.566,0.5103
+"Uruguay","Uruguay","URU",2010,"Telecomunicaciones","Telecommunications",157.256,0.39036
+"Uruguay","Uruguay","URU",2011,"Telecomunicaciones","Telecommunications",265.445,0.55344
+"Uruguay","Uruguay","URU",2012,"Telecomunicaciones","Telecommunications",303.707,0.59105
+"Uruguay","Uruguay","URU",2013,"Telecomunicaciones","Telecommunications",64.6,0.1123
+"Uruguay","Uruguay","URU",2014,"Telecomunicaciones","Telecommunications",,
+"Uruguay","Uruguay","URU",2015,"Telecomunicaciones","Telecommunications",,
+"Argentina","Argentina","ARG",2008,"Total sectores","All sectors total",7351.728,2.00942
+"Argentina","Argentina","ARG",2009,"Total sectores","All sectors total",7447.14,2.21404
+"Argentina","Argentina","ARG",2010,"Total sectores","All sectors total",10078.533,2.36315
+"Argentina","Argentina","ARG",2011,"Total sectores","All sectors total",10695.992,2.01751
+"Argentina","Argentina","ARG",2012,"Total sectores","All sectors total",10551.325,1.81472
+"Argentina","Argentina","ARG",2013,"Total sectores","All sectors total",12069.132,1.96785
+"Argentina","Argentina","ARG",2014,"Total sectores","All sectors total",10689.906,1.88518
+"Argentina","Argentina","ARG",2015,"Total sectores","All sectors total",9907.756,1.5656
+"Belice","Belice","BLZ",2008,"Total sectores","All sectors total",57.329,4.18877
+"Belice","Belice","BLZ",2009,"Total sectores","All sectors total",68.09,5.09288
+"Belice","Belice","BLZ",2010,"Total sectores","All sectors total",51.585,3.69223
+"Belice","Belice","BLZ",2011,"Total sectores","All sectors total",42.087,2.83035
+"Belice","Belice","BLZ",2012,"Total sectores","All sectors total",45.409,2.88519
+"Belice","Belice","BLZ",2013,"Total sectores","All sectors total",45.236,2.78235
+"Belice","Belice","BLZ",2014,"Total sectores","All sectors total",62.073,3.81793
+"Belice","Belice","BLZ",2015,"Total sectores","All sectors total",67.04,3.87025
+"Bolivia","Bolivia","BOL",2008,"Total sectores","All sectors total",655.4,3.58965
+"Bolivia","Bolivia","BOL",2009,"Total sectores","All sectors total",676.6,3.5854
+"Bolivia","Bolivia","BOL",2010,"Total sectores","All sectors total",782.04,3.9799
+"Bolivia","Bolivia","BOL",2011,"Total sectores","All sectors total",1102.22,5.33187
+"Bolivia","Bolivia","BOL",2012,"Total sectores","All sectors total",1308.32,6.02047
+"Bolivia","Bolivia","BOL",2013,"Total sectores","All sectors total",1797.18,7.74377
+"Bolivia","Bolivia","BOL",2014,"Total sectores","All sectors total",1879.47,7.67903
+"Bolivia","Bolivia","BOL",2015,"Total sectores","All sectors total",2162.532,8.42702
+"Bolivia","Bolivia","BOL",2016,"Total sectores","All sectors total",2868.564,10.72021
+"Brasil","Brazil","BRA",2008,"Total sectores","All sectors total",30759.953,1.81383
+"Brasil","Brazil","BRA",2009,"Total sectores","All sectors total",48681.629,2.92032
+"Brasil","Brazil","BRA",2010,"Total sectores","All sectors total",38473.931,1.74182
+"Brasil","Brazil","BRA",2011,"Total sectores","All sectors total",45624.435,1.74395
+"Brasil","Brazil","BRA",2012,"Total sectores","All sectors total",63479.452,2.57468
+"Brasil","Brazil","BRA",2013,"Total sectores","All sectors total",44908.849,1.8161
+"Brasil","Brazil","BRA",2014,"Total sectores","All sectors total",74042.465,3.01551
+"Brasil","Brazil","BRA",2015,"Total sectores","All sectors total",19554.192,1.08501
+"Brasil","Brazil","BRA",2016,"Total sectores","All sectors total",15568.689,0.86811
+"Chile","Chile","CHL",2008,"Total sectores","All sectors total",5370.191,2.98964
+"Chile","Chile","CHL",2009,"Total sectores","All sectors total",6470.078,3.76262
+"Chile","Chile","CHL",2010,"Total sectores","All sectors total",6205.514,2.85261
+"Chile","Chile","CHL",2011,"Total sectores","All sectors total",6731.227,2.68356
+"Chile","Chile","CHL",2012,"Total sectores","All sectors total",8973.783,3.38338
+"Chile","Chile","CHL",2013,"Total sectores","All sectors total",12765.199,4.60707
+"Chile","Chile","CHL",2014,"Total sectores","All sectors total",8153.726,3.1514
+"Chile","Chile","CHL",2015,"Total sectores","All sectors total",,
+"Colombia","Colombia","COL",2008,"Total sectores","All sectors total",8212.918,3.36371
+"Colombia","Colombia","COL",2009,"Total sectores","All sectors total",8828.655,3.77237
+"Colombia","Colombia","COL",2010,"Total sectores","All sectors total",10654.179,3.71069
+"Colombia","Colombia","COL",2011,"Total sectores","All sectors total",9931.795,2.96109
+"Colombia","Colombia","COL",2012,"Total sectores","All sectors total",10783.757,2.91411
+"Colombia","Colombia","COL",2013,"Total sectores","All sectors total",15242.102,4.02812
+"Colombia","Colombia","COL",2014,"Total sectores","All sectors total",16862.373,4.45281
+"Colombia","Colombia","COL",2015,"Total sectores","All sectors total",18848.388,6.45671
+"Costa Rica","Costa Rica","CRI",2008,"Total sectores","All sectors total",1040.521,3.51418
+"Costa Rica","Costa Rica","CRI",2009,"Total sectores","All sectors total",1428.215,4.90288
+"Costa Rica","Costa Rica","CRI",2010,"Total sectores","All sectors total",1362.395,3.78907
+"Costa Rica","Costa Rica","CRI",2011,"Total sectores","All sectors total",1674.465,4.10403
+"Costa Rica","Costa Rica","CRI",2012,"Total sectores","All sectors total",2401.547,5.35009
+"Costa Rica","Costa Rica","CRI",2013,"Total sectores","All sectors total",1956.393,4.01927
+"Costa Rica","Costa Rica","CRI",2014,"Total sectores","All sectors total",1673.743,3.37797
+"Costa Rica","Costa Rica","CRI",2015,"Total sectores","All sectors total",2147.871,4.08609
+"Ecuador","Ecuador","ECU",2008,"Total sectores","All sectors total",1182.22,1.91413
+"Ecuador","Ecuador","ECU",2009,"Total sectores","All sectors total",2023.31,3.23628
+"Ecuador","Ecuador","ECU",2010,"Total sectores","All sectors total",2710.56,3.89698
+"Ecuador","Ecuador","ECU",2011,"Total sectores","All sectors total",3028.63,3.82033
+"Ecuador","Ecuador","ECU",2012,"Total sectores","All sectors total",3227.71,3.671
+"Ecuador","Ecuador","ECU",2013,"Total sectores","All sectors total",4517.7,4.74899
+"Ecuador","Ecuador","ECU",2014,"Total sectores","All sectors total",4282.4,4.18644
+"Ecuador","Ecuador","ECU",2015,"Total sectores","All sectors total",5130.13,5.12108
+"El Salvador","El Salvador","SLV",2008,"Total sectores","All sectors total",573.086,2.6741
+"El Salvador","El Salvador","SLV",2009,"Total sectores","All sectors total",439.246,2.12596
+"El Salvador","El Salvador","SLV",2010,"Total sectores","All sectors total",439.547,2.0522
+"El Salvador","El Salvador","SLV",2011,"Total sectores","All sectors total",446.692,1.93047
+"El Salvador","El Salvador","SLV",2012,"Total sectores","All sectors total",604.387,2.53799
+"El Salvador","El Salvador","SLV",2013,"Total sectores","All sectors total",676.241,2.77706
+"El Salvador","El Salvador","SLV",2014,"Total sectores","All sectors total",467.473,1.86584
+"El Salvador","El Salvador","SLV",2015,"Total sectores","All sectors total",474.289,1.83476
+"Guatemala","Guatemala","GTM",2008,"Total sectores","All sectors total",1182.857,3.11035
+"Guatemala","Guatemala","GTM",2009,"Total sectores","All sectors total",811.845,2.20118
+"Guatemala","Guatemala","GTM",2010,"Total sectores","All sectors total",1670.843,4.01793
+"Guatemala","Guatemala","GTM",2011,"Total sectores","All sectors total",1077.583,2.26837
+"Guatemala","Guatemala","GTM",2012,"Total sectores","All sectors total",1267.12,2.53602
+"Guatemala","Guatemala","GTM",2013,"Total sectores","All sectors total",1534.538,2.84344
+"Guatemala","Guatemala","GTM",2014,"Total sectores","All sectors total",1523.836,2.59805
+"Guatemala","Guatemala","GTM",2015,"Total sectores","All sectors total",362.725,0.5697
+"Guyana","Guyana","GUY",2008,"Total sectores","All sectors total",63.364,3.69203
+"Guyana","Guyana","GUY",2009,"Total sectores","All sectors total",73.791,4.18859
+"Guyana","Guyana","GUY",2010,"Total sectores","All sectors total",63.817,3.24145
+"Guyana","Guyana","GUY",2011,"Total sectores","All sectors total",128.771,5.70992
+"Guyana","Guyana","GUY",2012,"Total sectores","All sectors total",114.82,4.58889
+"Guyana","Guyana","GUY",2013,"Total sectores","All sectors total",84.015,3.21081
+"Guyana","Guyana","GUY",2014,"Total sectores","All sectors total",66.248,2.4692
+"Guyana","Guyana","GUY",2015,"Total sectores","All sectors total",33.468,1.25647
+"Honduras","Honduras","HON",2008,"Total sectores","All sectors total",573.113,4.15609
+"Honduras","Honduras","HON",2009,"Total sectores","All sectors total",668.684,4.61603
+"Honduras","Honduras","HON",2010,"Total sectores","All sectors total",624.646,3.97114
+"Honduras","Honduras","HON",2011,"Total sectores","All sectors total",755.593,4.29605
+"Honduras","Honduras","HON",2012,"Total sectores","All sectors total",333.443,1.81214
+"Honduras","Honduras","HON",2013,"Total sectores","All sectors total",2065.585,11.24301
+"Honduras","Honduras","HON",2014,"Total sectores","All sectors total",1059.333,5.46585
+"Honduras","Honduras","HON",2015,"Total sectores","All sectors total",753.077,3.73698
+"México","Mexico","MEX",2008,"Total sectores","All sectors total",12967.469,1.16825
+"México","Mexico","MEX",2009,"Total sectores","All sectors total",14032.103,1.55904
+"México","Mexico","MEX",2010,"Total sectores","All sectors total",18873.138,1.78419
+"México","Mexico","MEX",2011,"Total sectores","All sectors total",19394.388,1.64291
+"México","Mexico","MEX",2012,"Total sectores","All sectors total",17234.505,1.4349
+"México","Mexico","MEX",2013,"Total sectores","All sectors total",20036.077,1.57214
+"México","Mexico","MEX",2014,"Total sectores","All sectors total",24368.69,1.85374
+"México","Mexico","MEX",2015,"Total sectores","All sectors total",18254.824,1.55949
+"México","Mexico","MEX",2016,"Total sectores","All sectors total",22875.103,2.12242
+"Nicaragua","Nicaragua","NIC",2008,"Total sectores","All sectors total",342.409,4.03243
+"Nicaragua","Nicaragua","NIC",2009,"Total sectores","All sectors total",333.243,3.9763
+"Nicaragua","Nicaragua","NIC",2010,"Total sectores","All sectors total",840.961,9.62055
+"Nicaragua","Nicaragua","NIC",2011,"Total sectores","All sectors total",686.298,7.03489
+"Nicaragua","Nicaragua","NIC",2012,"Total sectores","All sectors total",618.862,5.92844
+"Nicaragua","Nicaragua","NIC",2013,"Total sectores","All sectors total",601.89,5.53475
+"Nicaragua","Nicaragua","NIC",2014,"Total sectores","All sectors total",639.769,5.42627
+"Nicaragua","Nicaragua","NIC",2015,"Total sectores","All sectors total",750.322,5.91152
+"Panamá","Panama","PAN",2008,"Total sectores","All sectors total",1318.574,5.29889
+"Panamá","Panama","PAN",2009,"Total sectores","All sectors total",773.447,2.98339
+"Panamá","Panama","PAN",2010,"Total sectores","All sectors total",1166.799,4.04941
+"Panamá","Panama","PAN",2011,"Total sectores","All sectors total",2194.312,6.67541
+"Panamá","Panama","PAN",2012,"Total sectores","All sectors total",2050.47,5.35277
+"Panamá","Panama","PAN",2013,"Total sectores","All sectors total",3198.685,7.4341
+"Panamá","Panama","PAN",2014,"Total sectores","All sectors total",2962.848,6.28766
+"Panamá","Panama","PAN",2015,"Total sectores","All sectors total",2274.684,4.53896
+"Paraguay","Paraguay","PAR",2008,"Total sectores","All sectors total",648.99,3.52
+"Paraguay","Paraguay","PAR",2009,"Total sectores","All sectors total",573.703,3.29
+"Paraguay","Paraguay","PAR",2010,"Total sectores","All sectors total",663.76,3.32
+"Paraguay","Paraguay","PAR",2011,"Total sectores","All sectors total",795.049,3.67
+"Paraguay","Paraguay","PAR",2012,"Total sectores","All sectors total",901.705,4.33
+"Paraguay","Paraguay","PAR",2013,"Total sectores","All sectors total",1626.596,6.66
+"Paraguay","Paraguay","PAR",2014,"Total sectores","All sectors total",1662.224,6.73
+"Paraguay","Paraguay","PAR",2015,"Total sectores","All sectors total",1117.921,4.42
+"Paraguay","Paraguay","PAR",2016,"Total sectores","All sectors total",1066.184,4.035
+"Perú","Peru","PER",2008,"Total sectores","All sectors total",3966.551,3.28869
+"Perú","Peru","PER",2009,"Total sectores","All sectors total",5905.59,4.88668
+"Perú","Peru","PER",2010,"Total sectores","All sectors total",7590.437,5.1451
+"Perú","Peru","PER",2011,"Total sectores","All sectors total",8134.899,4.73615
+"Perú","Peru","PER",2012,"Total sectores","All sectors total",9801.734,5.08785
+"Perú","Peru","PER",2013,"Total sectores","All sectors total",11649.803,5.78965
+"Perú","Peru","PER",2014,"Total sectores","All sectors total",10302.143,5.12426
+"Perú","Peru","PER",2015,"Total sectores","All sectors total",13050.087,6.89715
+"República Dominicana","Dominican Republic","DOM",2008,"Total sectores","All sectors total",211,0.43966
+"República Dominicana","Dominican Republic","DOM",2009,"Total sectores","All sectors total",1320.122,2.73955
+"República Dominicana","Dominican Republic","DOM",2010,"Total sectores","All sectors total",1102.231,2.05055
+"República Dominicana","Dominican Republic","DOM",2011,"Total sectores","All sectors total",1167.336,2.02148
+"República Dominicana","Dominican Republic","DOM",2012,"Total sectores","All sectors total",2477.23,4.08691
+"República Dominicana","Dominican Republic","DOM",2013,"Total sectores","All sectors total",1157.271,1.86759
+"República Dominicana","Dominican Republic","DOM",2014,"Total sectores","All sectors total",1381.127,2.11728
+"República Dominicana","Dominican Republic","DOM",2015,"Total sectores","All sectors total",1288.955,1.89267
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2008,"Total sectores","All sectors total",124.531,0.44686
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2009,"Total sectores","All sectors total",284.095,1.48042
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2010,"Total sectores","All sectors total",196.94,0.88942
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2011,"Total sectores","All sectors total",173.602,0.68266
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2012,"Total sectores","All sectors total",232.068,0.90325
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2013,"Total sectores","All sectors total",267.391,1.01073
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2014,"Total sectores","All sectors total",392.196,1.10811
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2015,"Total sectores","All sectors total",356.855,1.37313
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2016,"Total sectores","All sectors total",313.138,1.40206
+"Uruguay","Uruguay","URU",2008,"Total sectores","All sectors total",693.935,2.28522
+"Uruguay","Uruguay","URU",2009,"Total sectores","All sectors total",741.682,2.34258
+"Uruguay","Uruguay","URU",2010,"Total sectores","All sectors total",918.143,2.27915
+"Uruguay","Uruguay","URU",2011,"Total sectores","All sectors total",1061.122,2.2124
+"Uruguay","Uruguay","URU",2012,"Total sectores","All sectors total",1476.38,2.87323
+"Uruguay","Uruguay","URU",2013,"Total sectores","All sectors total",930.8,1.61809
+"Uruguay","Uruguay","URU",2014,"Total sectores","All sectors total",,
+"Uruguay","Uruguay","URU",2015,"Total sectores","All sectors total",,
+"Argentina","Argentina","ARG",2008,"Transporte","Transport",3059.353,0.8367
+"Argentina","Argentina","ARG",2009,"Transporte","Transport",3129.662,0.93045
+"Argentina","Argentina","ARG",2010,"Transporte","Transport",3838.272,0.89997
+"Argentina","Argentina","ARG",2011,"Transporte","Transport",4191.719,0.79065
+"Argentina","Argentina","ARG",2012,"Transporte","Transport",3607.732,0.62049
+"Argentina","Argentina","ARG",2013,"Transporte","Transport",4183.393,0.68209
+"Argentina","Argentina","ARG",2014,"Transporte","Transport",3537.982,0.62393
+"Argentina","Argentina","ARG",2015,"Transporte","Transport",3675.679,0.58082
+"Belice","Belice","BLZ",2008,"Transporte","Transport",11.024,0.80549
+"Belice","Belice","BLZ",2009,"Transporte","Transport",12.854,0.96145
+"Belice","Belice","BLZ",2010,"Transporte","Transport",14.406,1.03115
+"Belice","Belice","BLZ",2011,"Transporte","Transport",6.483,0.43599
+"Belice","Belice","BLZ",2012,"Transporte","Transport",15.908,1.01074
+"Belice","Belice","BLZ",2013,"Transporte","Transport",13.098,0.80564
+"Belice","Belice","BLZ",2014,"Transporte","Transport",23.367,1.43726
+"Belice","Belice","BLZ",2015,"Transporte","Transport",22.163,1.25792
+"Bolivia","Bolivia","BOL",2008,"Transporte","Transport",438.6,2.40223
+"Bolivia","Bolivia","BOL",2009,"Transporte","Transport",472.9,2.50597
+"Bolivia","Bolivia","BOL",2010,"Transporte","Transport",599.24,3.04961
+"Bolivia","Bolivia","BOL",2011,"Transporte","Transport",736.22,3.56138
+"Bolivia","Bolivia","BOL",2012,"Transporte","Transport",891.52,4.10249
+"Bolivia","Bolivia","BOL",2013,"Transporte","Transport",1075.08,4.63236
+"Bolivia","Bolivia","BOL",2014,"Transporte","Transport",1215.05,4.96438
+"Bolivia","Bolivia","BOL",2015,"Transporte","Transport",1420.67,5.53611
+"Bolivia","Bolivia","BOL",2016,"Transporte","Transport",1656.5,6.18
+"Brasil","Brazil","BRA",2008,"Transporte","Transport",12587.415,0.74225
+"Brasil","Brazil","BRA",2009,"Transporte","Transport",12516.399,0.75084
+"Brasil","Brazil","BRA",2010,"Transporte","Transport",12503.277,0.56606
+"Brasil","Brazil","BRA",2011,"Transporte","Transport",14800.878,0.56575
+"Brasil","Brazil","BRA",2012,"Transporte","Transport",15875.969,0.64392
+"Brasil","Brazil","BRA",2013,"Transporte","Transport",17821.536,0.7207
+"Brasil","Brazil","BRA",2014,"Transporte","Transport",27916.884,1.13697
+"Brasil","Brazil","BRA",2015,"Transporte","Transport",4653.972,0.25824
+"Brasil","Brazil","BRA",2016,"Transporte","Transport",3593.757,0.20039
+"Chile","Chile","CHL",2008,"Transporte","Transport",3219.106,1.79211
+"Chile","Chile","CHL",2009,"Transporte","Transport",3744.494,2.17758
+"Chile","Chile","CHL",2010,"Transporte","Transport",3883.312,1.78512
+"Chile","Chile","CHL",2011,"Transporte","Transport",4277.695,1.7054
+"Chile","Chile","CHL",2012,"Transporte","Transport",4154.925,1.56653
+"Chile","Chile","CHL",2013,"Transporte","Transport",4507.369,1.62675
+"Chile","Chile","CHL",2014,"Transporte","Transport",3088.23,1.1936
+"Chile","Chile","CHL",2015,"Transporte","Transport",,
+"Colombia","Colombia","COL",2008,"Transporte","Transport",4542.472,1.86043
+"Colombia","Colombia","COL",2009,"Transporte","Transport",3773.436,1.61234
+"Colombia","Colombia","COL",2010,"Transporte","Transport",6661.285,2.32003
+"Colombia","Colombia","COL",2011,"Transporte","Transport",4692.234,1.39896
+"Colombia","Colombia","COL",2012,"Transporte","Transport",6670.188,1.80249
+"Colombia","Colombia","COL",2013,"Transporte","Transport",9207.446,2.43331
+"Colombia","Colombia","COL",2014,"Transporte","Transport",11951.423,3.15599
+"Colombia","Colombia","COL",2015,"Transporte","Transport",17143.943,5.87283
+"Costa Rica","Costa Rica","CRI",2008,"Transporte","Transport",348.202,1.17599
+"Costa Rica","Costa Rica","CRI",2009,"Transporte","Transport",454.515,1.56029
+"Costa Rica","Costa Rica","CRI",2010,"Transporte","Transport",341.296,0.94921
+"Costa Rica","Costa Rica","CRI",2011,"Transporte","Transport",377.599,0.92548
+"Costa Rica","Costa Rica","CRI",2012,"Transporte","Transport",440.462,0.98125
+"Costa Rica","Costa Rica","CRI",2013,"Transporte","Transport",479.836,0.98579
+"Costa Rica","Costa Rica","CRI",2014,"Transporte","Transport",540.669,1.09119
+"Costa Rica","Costa Rica","CRI",2015,"Transporte","Transport",1223.52,2.32761
+"Ecuador","Ecuador","ECU",2008,"Transporte","Transport",852.43,1.38017
+"Ecuador","Ecuador","ECU",2009,"Transporte","Transport",1513.22,2.42039
+"Ecuador","Ecuador","ECU",2010,"Transporte","Transport",1364.89,1.96231
+"Ecuador","Ecuador","ECU",2011,"Transporte","Transport",1349.46,1.70222
+"Ecuador","Ecuador","ECU",2012,"Transporte","Transport",1097.52,1.24825
+"Ecuador","Ecuador","ECU",2013,"Transporte","Transport",1418.09,1.49069
+"Ecuador","Ecuador","ECU",2014,"Transporte","Transport",1387.67,1.35657
+"Ecuador","Ecuador","ECU",2015,"Transporte","Transport",1195.69,1.19358
+"El Salvador","El Salvador","SLV",2008,"Transporte","Transport",196.629,0.9175
+"El Salvador","El Salvador","SLV",2009,"Transporte","Transport",221.838,1.0737
+"El Salvador","El Salvador","SLV",2010,"Transporte","Transport",185.265,0.86498
+"El Salvador","El Salvador","SLV",2011,"Transporte","Transport",201.223,0.86963
+"El Salvador","El Salvador","SLV",2012,"Transporte","Transport",279.736,1.17469
+"El Salvador","El Salvador","SLV",2013,"Transporte","Transport",259.539,1.06583
+"El Salvador","El Salvador","SLV",2014,"Transporte","Transport",173.984,0.69443
+"El Salvador","El Salvador","SLV",2015,"Transporte","Transport",203.107,0.78571
+"Guatemala","Guatemala","GTM",2008,"Transporte","Transport",571.516,1.50281
+"Guatemala","Guatemala","GTM",2009,"Transporte","Transport",515.456,1.39757
+"Guatemala","Guatemala","GTM",2010,"Transporte","Transport",591.312,1.42195
+"Guatemala","Guatemala","GTM",2011,"Transporte","Transport",882.483,1.85768
+"Guatemala","Guatemala","GTM",2012,"Transporte","Transport",554.69,1.11016
+"Guatemala","Guatemala","GTM",2013,"Transporte","Transport",483.947,0.89673
+"Guatemala","Guatemala","GTM",2014,"Transporte","Transport",683.98,1.16615
+"Guatemala","Guatemala","GTM",2015,"Transporte","Transport",296.487,0.46566
+"Guyana","Guyana","GUY",2008,"Transporte","Transport",15.893,0.92606
+"Guyana","Guyana","GUY",2009,"Transporte","Transport",19.297,1.09535
+"Guyana","Guyana","GUY",2010,"Transporte","Transport",13.524,0.68691
+"Guyana","Guyana","GUY",2011,"Transporte","Transport",38.561,1.70988
+"Guyana","Guyana","GUY",2012,"Transporte","Transport",25.483,1.01845
+"Guyana","Guyana","GUY",2013,"Transporte","Transport",18.482,0.70632
+"Guyana","Guyana","GUY",2014,"Transporte","Transport",10.505,0.39155
+"Guyana","Guyana","GUY",2015,"Transporte","Transport",16.891,0.63412
+"Honduras","Honduras","HON",2008,"Transporte","Transport",153.133,1.11049
+"Honduras","Honduras","HON",2009,"Transporte","Transport",328.733,2.26929
+"Honduras","Honduras","HON",2010,"Transporte","Transport",245.914,1.56338
+"Honduras","Honduras","HON",2011,"Transporte","Transport",273.236,1.55353
+"Honduras","Honduras","HON",2012,"Transporte","Transport",216.478,1.17647
+"Honduras","Honduras","HON",2013,"Transporte","Transport",1461.648,7.95577
+"Honduras","Honduras","HON",2014,"Transporte","Transport",178.296,0.91995
+"Honduras","Honduras","HON",2015,"Transporte","Transport",226.781,1.12535
+"México","Mexico","MEX",2008,"Transporte","Transport",5697.632,0.51331
+"México","Mexico","MEX",2009,"Transporte","Transport",7101.044,0.78897
+"México","Mexico","MEX",2010,"Transporte","Transport",7484.988,0.7076
+"México","Mexico","MEX",2011,"Transporte","Transport",9507.739,0.80541
+"México","Mexico","MEX",2012,"Transporte","Transport",7587.326,0.6317
+"México","Mexico","MEX",2013,"Transporte","Transport",10235.929,0.80317
+"México","Mexico","MEX",2014,"Transporte","Transport",8512.933,0.64758
+"México","Mexico","MEX",2015,"Transporte","Transport",5631.019,0.48105
+"México","Mexico","MEX",2016,"Transporte","Transport",5048.402,0.46841
+"Nicaragua","Nicaragua","NIC",2008,"Transporte","Transport",117.271,1.38106
+"Nicaragua","Nicaragua","NIC",2009,"Transporte","Transport",164.141,1.95855
+"Nicaragua","Nicaragua","NIC",2010,"Transporte","Transport",189.08,2.16307
+"Nicaragua","Nicaragua","NIC",2011,"Transporte","Transport",223.448,2.29045
+"Nicaragua","Nicaragua","NIC",2012,"Transporte","Transport",232.233,2.2247
+"Nicaragua","Nicaragua","NIC",2013,"Transporte","Transport",219.518,2.0186
+"Nicaragua","Nicaragua","NIC",2014,"Transporte","Transport",210.083,1.78184
+"Nicaragua","Nicaragua","NIC",2015,"Transporte","Transport",271.046,2.13548
+"Panamá","Panama","PAN",2008,"Transporte","Transport",403.18,1.62024
+"Panamá","Panama","PAN",2009,"Transporte","Transport",621.496,2.39727
+"Panamá","Panama","PAN",2010,"Transporte","Transport",796.405,2.76394
+"Panamá","Panama","PAN",2011,"Transporte","Transport",1265.106,3.84863
+"Panamá","Panama","PAN",2012,"Transporte","Transport",1900.117,4.96028
+"Panamá","Panama","PAN",2013,"Transporte","Transport",2454.881,5.70542
+"Panamá","Panama","PAN",2014,"Transporte","Transport",1838.432,3.90146
+"Panamá","Panama","PAN",2015,"Transporte","Transport",2136.269,4.26276
+"Paraguay","Paraguay","PAR",2008,"Transporte","Transport",240.585,1.3
+"Paraguay","Paraguay","PAR",2009,"Transporte","Transport",232.093,1.31
+"Paraguay","Paraguay","PAR",2010,"Transporte","Transport",258.975,1.3
+"Paraguay","Paraguay","PAR",2011,"Transporte","Transport",293.159,1.41
+"Paraguay","Paraguay","PAR",2012,"Transporte","Transport",352.21,1.71
+"Paraguay","Paraguay","PAR",2013,"Transporte","Transport",562.554,2.39
+"Paraguay","Paraguay","PAR",2014,"Transporte","Transport",706.887,2.86
+"Paraguay","Paraguay","PAR",2015,"Transporte","Transport",530.917,2.1
+"Paraguay","Paraguay","PAR",2016,"Transporte","Transport",593.245,2.25
+"Perú","Peru","PER",2008,"Transporte","Transport",1963.327,1.6278
+"Perú","Peru","PER",2009,"Transporte","Transport",3476.632,2.8768
+"Perú","Peru","PER",2010,"Transporte","Transport",3943.491,2.67305
+"Perú","Peru","PER",2011,"Transporte","Transport",4810.993,2.80097
+"Perú","Peru","PER",2012,"Transporte","Transport",4894.315,2.54052
+"Perú","Peru","PER",2013,"Transporte","Transport",5719.671,2.84253
+"Perú","Peru","PER",2014,"Transporte","Transport",4690.78,2.33318
+"Perú","Peru","PER",2015,"Transporte","Transport",10066.888,5.32049
+"República Dominicana","Dominican Republic","DOM",2008,"Transporte","Transport",,
+"República Dominicana","Dominican Republic","DOM",2009,"Transporte","Transport",712.798,1.47922
+"República Dominicana","Dominican Republic","DOM",2010,"Transporte","Transport",664.603,1.23641
+"República Dominicana","Dominican Republic","DOM",2011,"Transporte","Transport",752.872,1.30375
+"República Dominicana","Dominican Republic","DOM",2012,"Transporte","Transport",1617.18,2.66801
+"República Dominicana","Dominican Republic","DOM",2013,"Transporte","Transport",510.928,0.82453
+"República Dominicana","Dominican Republic","DOM",2014,"Transporte","Transport",576.337,0.88353
+"República Dominicana","Dominican Republic","DOM",2015,"Transporte","Transport",567.008,0.83258
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2008,"Transporte","Transport",67.44,0.242
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2009,"Transporte","Transport",178.187,0.92854
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2010,"Transporte","Transport",123.923,0.55967
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2011,"Transporte","Transport",100.44,0.3949
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2012,"Transporte","Transport",149.58,0.58219
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2013,"Transporte","Transport",163.882,0.61947
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2014,"Transporte","Transport",175.039,0.64203
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2015,"Transporte","Transport",174.513,0.6715
+"Trinidad y Tobago","Trinidad and Tobago","TTO",2016,"Transporte","Transport",139.7,0.6255
+"Uruguay","Uruguay","URU",2008,"Transporte","Transport",93.376,0.3075
+"Uruguay","Uruguay","URU",2009,"Transporte","Transport",123.031,0.38859
+"Uruguay","Uruguay","URU",2010,"Transporte","Transport",237.977,0.59074
+"Uruguay","Uruguay","URU",2011,"Transporte","Transport",220.339,0.4594
+"Uruguay","Uruguay","URU",2012,"Transporte","Transport",267.628,0.52084
+"Uruguay","Uruguay","URU",2013,"Transporte","Transport",,
+"Uruguay","Uruguay","URU",2014,"Transporte","Transport",,
+"Uruguay","Uruguay","URU",2015,"Transporte","Transport",,
